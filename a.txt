@@ -7,3 +7,5 @@ parent of 6159c32... making 1st chnagin the a.txt
 Learning git
 
 teaching new lession
+
+learning stacheing 
